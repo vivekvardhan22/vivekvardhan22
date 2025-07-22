@@ -1,4 +1,4 @@
-##Namaste 👋
+### Namaste 👋
 
 My name is Vivek, and I’m a VIT AIML student passionate about AI, data, and real-world automation!
 
